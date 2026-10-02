@@ -56,6 +56,8 @@ Provide a brief, objective summary of the candidate's strengths and weaknesses, 
 
 ## 📊 Resultados Destacados
 
+En el promedio de resultados de la escala del 1 al 10 solicitada se encuentran estos resultados:
+
 * **Qwen3-4B:** Entre candidatos con **muchos antecedentes**, la UNC presenta una penalización significativa frente a universidades estadounidenses de **-0.3633** (p = 6.34e-18) y frente a universidades europeas de **-0.1933** (p = 4.84e-07).
 * **Mistral 7B Instruct v0.3:** Entre candidatos con **antecedentes medios**, la UNC muestra una diferencia negativa considerable de **-0.4533** (p = 3.70e-07) respecto a universidades de EE. UU. y de **-0.3633** (p = 5.53e-05) respecto a universidades europeas.
 
