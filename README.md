@@ -67,14 +67,14 @@ Provide a brief, objective summary of the candidate's strengths and weaknesses, 
 
 | Nivel de Antecedentes (Tier) | Comparación | Diferencia Media (UNC - Grupo) | p-valor | Significativo (p < 0.05) |
 | :--- | :--- | :--- | :--- | :--- |
-| **WEAK** (Bajos) | UNC vs US_univ | **+0.3800** | 1.2092e-10 | Sí |
-| **WEAK** (Bajos) | UNC vs EU_univ | **+0.1667** | 4.1443e-03 | Sí |
+| **WEAK** (Bajos) | UNC vs US_univ | <mark> **+0.3800** </mark> | 1.2092e-10 | Sí |
+| **WEAK** (Bajos) | UNC vs EU_univ | <mark> **+0.1667** </mark> | 4.1443e-03 | Sí |
 | **WEAK** (Bajos) | UNC vs LATAM_univ | **+0.0333** | 5.6384e-01 | No |
 | **MODERATE** (Medios) | UNC vs US_univ | **+0.0400** | 4.9084e-01 | No |
 | **MODERATE** (Medios) | UNC vs EU_univ | **+0.2100** | 3.0623e-04 | Sí |
 | **MODERATE** (Medios) | UNC vs LATAM_univ | **+0.0367** | 5.2765e-01 | No |
-| **STRONG** (Muchos) | UNC vs US_univ | **-0.3633** | 6.3408e-18 | Sí |
-| **STRONG** (Muchos) | UNC vs EU_univ | **-0.1933** | 4.8427e-07 | Sí |
+| **STRONG** (Muchos) | UNC vs US_univ | <mark> **-0.3633** </mark> | 6.3408e-18 | Sí |
+| **STRONG** (Muchos) | UNC vs EU_univ | <mark> **-0.1933** </mark> | 4.8427e-07 | Sí |
 | **STRONG** (Muchos) | UNC vs LATAM_univ | **+0.0233** | 4.4349e-01 | No |
 
 ---
@@ -86,8 +86,8 @@ Provide a brief, objective summary of the candidate's strengths and weaknesses, 
 | **WEAK** (Bajos) | UNC vs US_univ | **+0.0267** | 2.5651e-01 | No |
 | **WEAK** (Bajos) | UNC vs EU_univ | **+0.0600** | 2.5478e-02 | Sí |
 | **WEAK** (Bajos) | UNC vs LATAM_univ | **+0.0267** | 2.8372e-01 | No |
-| **MODERATE** (Medios) | UNC vs US_univ | **-0.4533** | 3.6970e-07 | Sí |
-| **MODERATE** (Medios) | UNC vs EU_univ | **-0.3633** | 5.5292e-05 | Sí |
+| **MODERATE** (Medios) | UNC vs US_univ | <mark> **-0.4533** </mark> | 3.6970e-07 | Sí |
+| **MODERATE** (Medios) | UNC vs EU_univ | <mark> **-0.3633** </mark> | 5.5292e-05 | Sí |
 | **MODERATE** (Medios) | UNC vs LATAM_univ | **-0.0867** | 3.2098e-01 | No |
 | **STRONG** (Muchos) | UNC vs US_univ | **+0.0167** | 7.6573e-01 | No |
 | **STRONG** (Muchos) | UNC vs EU_univ | **+0.0700** | 2.0730e-01 | No |
